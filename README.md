@@ -6,3 +6,4 @@
 4. Tetris (Link: https://github.com/rohit-dewaliya/Tetris)
 5. Online Tic-Tac-Toe (Link: https://github.com/rohit-dewaliya/Online-Tic-Tac-Toe)
 6. Slung Gun (Link: https://github.com/rohit-dewaliya/Slung-Gun)
+7. Simple Snake Game (Link: https://github.com/rohit-dewaliya/Snake-Game)
